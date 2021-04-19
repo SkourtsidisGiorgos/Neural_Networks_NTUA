@@ -5,7 +5,7 @@ Projects for the ECE class "Neural Networks and Intelligent Systems", 2020-2021
 Students had to use 2 datasets from UCI (Machine Learning Repository) to apply classification techniques. We exprimented with the following classifiers: k-nearest neighbors, gaussian naive bayes, support vector machines, multilayer perceptron. We also hypertuned some of the models using grid search cross validation.
 
 ## Project - 2
-Students had to create 2 movie recommendation systems: the first using cosine similarity metric and the second using Self Organising Maps (SOM's)
+Students had to create 2 movie recommendation systems: the first using bag-of-words/cosine similarity metric and the second using Self Organising Maps (SOM's)
 
 ## Project - 3
 Image classification on Cifar-100 dataset using Deep Convolutional Neural Networks. We tested various optimazation techniques, model's architectures and used some state-of-art models using Transfer Learning
